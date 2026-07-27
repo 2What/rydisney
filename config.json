@@ -6,7 +6,7 @@
   "alerts": {
     "lightning_lane_drops": true,
     "multi_pass_drops": true,
-    "standby_under_minutes": 60,
+    "standby_under_minutes": 999,
     "standby_rearm_margin": 15,
     "ride_down": true,
     "ride_back_up": true
