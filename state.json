@@ -557,7 +557,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 35,
+  "standby": 45,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -927,7 +927,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "EPCOT",
-  "standby": 65,
+  "standby": 95,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -1028,7 +1028,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 20,
+  "standby": 15,
   "standby_armed": true,
   "status": "OPERATING"
  },
