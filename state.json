@@ -83,7 +83,7 @@
   "multi_state": null,
   "name": "Star Wars: Rise of the Resistance",
   "paid_price": "$24.00",
-  "paid_return": "10:35",
+  "paid_return": "20:25",
   "paid_state": "AVAILABLE",
   "park": "Disney's Hollywood Studios",
   "standby": null,
@@ -102,7 +102,7 @@
   "status": "CLOSED"
  },
  "1b15c77b-0311-4171-8e59-7f38e6d60754": {
-  "multi_return": "08:50",
+  "multi_return": "09:00",
   "multi_state": "AVAILABLE",
   "name": "Zootopia: Better Zoogether!",
   "paid_price": "",
@@ -164,7 +164,7 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$16.00",
-  "paid_return": "08:30",
+  "paid_return": "16:45",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
@@ -550,7 +550,7 @@
   "status": "CLOSED"
  },
  "72c7343a-f7fb-4f66-95df-c91016de7338": {
-  "multi_return": "16:10",
+  "multi_return": "17:05",
   "multi_state": "AVAILABLE",
   "name": "Buzz Lightyear\u2019s Space Ranger Spin",
   "paid_price": "",
@@ -562,7 +562,7 @@
   "status": "CLOSED"
  },
  "73cb9445-0695-47a3-87ce-d08ae36b5f3c": {
-  "multi_return": "12:25",
+  "multi_return": "14:55",
   "multi_state": "AVAILABLE",
   "name": "Tiana's Bayou Adventure",
   "paid_price": "",
@@ -655,7 +655,7 @@
   "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
-  "multi_return": "13:05",
+  "multi_return": "13:10",
   "multi_state": "AVAILABLE",
   "name": "Peter Pan's Flight",
   "paid_price": "",
@@ -678,7 +678,7 @@
   "status": "CLOSED"
  },
  "890fa430-89c0-4a3f-96c9-11597888005e": {
-  "multi_return": "09:20",
+  "multi_return": "09:45",
   "multi_state": "AVAILABLE",
   "name": "Dumbo the Flying Elephant",
   "paid_price": "",
@@ -839,7 +839,7 @@
   "status": "CLOSED"
  },
  "d56506e2-6ad3-443a-8065-fea37987248d": {
-  "multi_return": "10:20",
+  "multi_return": "12:00",
   "multi_state": "AVAILABLE",
   "name": "Alien Swirling Saucers",
   "paid_price": "",
@@ -851,7 +851,7 @@
   "status": "CLOSED"
  },
  "d58d9262-ec95-4161-80a0-07ca43b2f5f3": {
-  "multi_return": "10:05",
+  "multi_return": "09:25",
   "multi_state": "AVAILABLE",
   "name": "Kali River Rapids",
   "paid_price": "",
