@@ -76,7 +76,7 @@
   "paid_state": null,
   "park": "EPCOT",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "1a2e70d9-50d5-4140-b69e-799e950f7d18": {
   "multi_return": "?",
@@ -594,7 +594,7 @@
   "paid_state": null,
   "park": "EPCOT",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "796b0a25-c51e-456e-9bb8-50a324e301b3": {
   "multi_return": "?",
@@ -755,7 +755,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "9211adc9-b296-4667-8e97-b40cf76108e4": {
   "multi_return": "?",
