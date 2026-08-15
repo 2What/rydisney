@@ -330,9 +330,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 5,
   "standby_armed": true,
-  "status": "DOWN"
+  "status": "OPERATING"
  },
  "3d8f8f8f-f984-4d2e-8dea-5a79432bdf05": {
   "multi_return": "?",
@@ -431,7 +431,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": 30,
+  "standby": 25,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -557,7 +557,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -662,7 +662,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -800,7 +800,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": 20,
+  "standby": 7,
   "standby_armed": true,
   "status": "OPERATING"
  },
