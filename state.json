@@ -164,10 +164,10 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$16.00",
-  "paid_return": "14:55",
+  "paid_return": "08:20",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 50,
+  "standby": 60,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -459,7 +459,7 @@
   "status": "CLOSED"
  },
  "64a6915f-a835-4226-ba5c-8389fc4cade3": {
-  "multi_return": "10:45",
+  "multi_return": "09:55",
   "multi_state": "AVAILABLE",
   "name": "Expedition Everest - Legend of the Forbidden Mountain",
   "paid_price": "",
