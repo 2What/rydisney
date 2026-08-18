@@ -34,7 +34,7 @@
   "status": "OPERATING"
  },
  "0d94ad60-72f0-4551-83a6-ebaecdd89737": {
-  "multi_return": "09:35",
+  "multi_return": "14:50",
   "multi_state": "AVAILABLE",
   "name": "The Many Adventures of Winnie the Pooh",
   "paid_price": "",
@@ -83,7 +83,7 @@
   "multi_state": null,
   "name": "Star Wars: Rise of the Resistance",
   "paid_price": "$20.00",
-  "paid_return": "19:45",
+  "paid_return": "19:55",
   "paid_state": "AVAILABLE",
   "park": "Disney's Hollywood Studios",
   "standby": null,
@@ -102,7 +102,7 @@
   "status": "CLOSED"
  },
  "1b15c77b-0311-4171-8e59-7f38e6d60754": {
-  "multi_return": "08:40",
+  "multi_return": "08:00",
   "multi_state": "AVAILABLE",
   "name": "Zootopia: Better Zoogether!",
   "paid_price": "",
@@ -136,7 +136,7 @@
   "status": "OPERATING"
  },
  "20b5daa8-e1ea-436f-830c-2d7d18d929b5": {
-  "multi_return": "15:05",
+  "multi_return": "20:05",
   "multi_state": "AVAILABLE",
   "name": "Toy Story Mania!",
   "paid_price": "",
@@ -164,10 +164,10 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$15.00",
-  "paid_return": "08:35",
+  "paid_return": "08:10",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 45,
+  "standby": 65,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -229,19 +229,19 @@
   "status": "CLOSED"
  },
  "32e01181-9a5f-4936-8a77-0dace1de836c": {
-  "multi_return": "10:35",
+  "multi_return": "09:05",
   "multi_state": "AVAILABLE",
   "name": "Kilimanjaro Safaris",
   "paid_price": "",
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": null,
+  "standby": 20,
   "standby_armed": true,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "34c4916b-989b-4ff1-a7e3-a6a846a3484f": {
-  "multi_return": "09:50",
+  "multi_return": "09:10",
   "multi_state": "AVAILABLE",
   "name": "Millennium Falcon: Smugglers Run",
   "paid_price": "",
@@ -253,7 +253,7 @@
   "status": "CLOSED"
  },
  "352feb94-e52e-45eb-9c92-e4b44c6b1a9d": {
-  "multi_return": "09:45",
+  "multi_return": "10:25",
   "multi_state": "AVAILABLE",
   "name": "Pirates of the Caribbean",
   "paid_price": "",
@@ -288,7 +288,7 @@
   "status": "CLOSED"
  },
  "399aa0a1-98e2-4d2b-b297-2b451e9665e1": {
-  "multi_return": "21:20",
+  "multi_return": "19:35",
   "multi_state": "AVAILABLE",
   "name": "Slinky Dog Dash",
   "paid_price": "",
@@ -357,7 +357,7 @@
   "status": "CLOSED"
  },
  "480fde8f-fe58-4bfb-b3ab-052a39d4db7c": {
-  "multi_return": "11:25",
+  "multi_return": "10:45",
   "multi_state": "AVAILABLE",
   "name": "Spaceship Earth",
   "paid_price": "",
@@ -388,7 +388,7 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "4f0df9e7-d4c1-45b5-93e2-4a7bc92547b0": {
   "multi_return": "?",
@@ -428,15 +428,15 @@
   "multi_state": null,
   "name": "TRON Lightcycle / Run",
   "paid_price": "$20.00",
-  "paid_return": "?",
-  "paid_state": "FINISHED",
+  "paid_return": "14:55",
+  "paid_state": "AVAILABLE",
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 30,
   "standby_armed": true,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "5b6475ad-4e9a-4793-b841-501aa382c9c0": {
-  "multi_return": "10:55",
+  "multi_return": "10:05",
   "multi_state": "AVAILABLE",
   "name": "Mission: SPACE",
   "paid_price": "",
@@ -459,7 +459,7 @@
   "status": "CLOSED"
  },
  "64a6915f-a835-4226-ba5c-8389fc4cade3": {
-  "multi_return": "08:20",
+  "multi_return": "08:05",
   "multi_state": "AVAILABLE",
   "name": "Expedition Everest - Legend of the Forbidden Mountain",
   "paid_price": "",
@@ -516,7 +516,7 @@
   "status": "CLOSED"
  },
  "6f6998e8-a629-412c-b964-2cb06af8e26b": {
-  "multi_return": "15:55",
+  "multi_return": "18:20",
   "multi_state": "AVAILABLE",
   "name": "The Twilight Zone\u2122 Tower of Terror",
   "paid_price": "",
@@ -536,7 +536,7 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "6fd1e225-53a0-4a80-a577-4bbc9a471075": {
   "multi_return": "?",
@@ -550,7 +550,7 @@
   "status": "CLOSED"
  },
  "72c7343a-f7fb-4f66-95df-c91016de7338": {
-  "multi_return": "11:20",
+  "multi_return": "14:05",
   "multi_state": "AVAILABLE",
   "name": "Buzz Lightyear\u2019s Space Ranger Spin",
   "paid_price": "",
@@ -562,7 +562,7 @@
   "status": "OPERATING"
  },
  "73cb9445-0695-47a3-87ce-d08ae36b5f3c": {
-  "multi_return": "13:10",
+  "multi_return": "08:20",
   "multi_state": "AVAILABLE",
   "name": "Tiana's Bayou Adventure",
   "paid_price": "",
@@ -574,7 +574,7 @@
   "status": "CLOSED"
  },
  "75449e85-c410-4cef-a368-9d2ea5d52b58": {
-  "multi_return": "10:20",
+  "multi_return": "10:25",
   "multi_state": "AVAILABLE",
   "name": "Journey Into Imagination With Figment",
   "paid_price": "",
@@ -597,7 +597,7 @@
   "status": "CLOSED"
  },
  "796b0a25-c51e-456e-9bb8-50a324e301b3": {
-  "multi_return": "08:15",
+  "multi_return": "08:35",
   "multi_state": "AVAILABLE",
   "name": "Jungle Cruise",
   "paid_price": "",
@@ -609,7 +609,7 @@
   "status": "CLOSED"
  },
  "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0": {
-  "multi_return": "14:20",
+  "multi_return": "10:00",
   "multi_state": "AVAILABLE",
   "name": "Na'vi River Journey",
   "paid_price": "",
@@ -643,7 +643,7 @@
   "status": "REFURBISHMENT"
  },
  "81b15dfd-cf6a-466f-be59-3dd65d2a2807": {
-  "multi_return": "14:45",
+  "multi_return": "14:40",
   "multi_state": "AVAILABLE",
   "name": "Soarin' Across America",
   "paid_price": "",
@@ -655,7 +655,7 @@
   "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
-  "multi_return": "10:00",
+  "multi_return": "10:05",
   "multi_state": "AVAILABLE",
   "name": "Peter Pan's Flight",
   "paid_price": "",
@@ -701,7 +701,7 @@
   "status": "CLOSED"
  },
  "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0": {
-  "multi_return": "12:35",
+  "multi_return": "11:00",
   "multi_state": "AVAILABLE",
   "name": "Frozen Ever After",
   "paid_price": "",
@@ -755,7 +755,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "9211adc9-b296-4667-8e97-b40cf76108e4": {
   "multi_return": "?",
@@ -769,7 +769,7 @@
   "status": "CLOSED"
  },
  "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48": {
-  "multi_return": "08:10",
+  "multi_return": "08:45",
   "multi_state": "AVAILABLE",
   "name": "The Barnstormer",
   "paid_price": "",
@@ -812,7 +812,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 15,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -836,10 +836,10 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "d56506e2-6ad3-443a-8065-fea37987248d": {
-  "multi_return": "12:30",
+  "multi_return": "11:00",
   "multi_state": "AVAILABLE",
   "name": "Alien Swirling Saucers",
   "paid_price": "",
@@ -897,7 +897,7 @@
   "status": "CLOSED"
  },
  "de3309ca-97d5-4211-bffe-739fed47e92f": {
-  "multi_return": "13:15",
+  "multi_return": "13:45",
   "multi_state": "AVAILABLE",
   "name": "Big Thunder Mountain Railroad",
   "paid_price": "",
@@ -924,7 +924,7 @@
   "multi_state": null,
   "name": "Guardians of the Galaxy: Cosmic Rewind",
   "paid_price": "$18.00",
-  "paid_return": "16:25",
+  "paid_return": "16:30",
   "paid_state": "AVAILABLE",
   "park": "EPCOT",
   "standby": null,
@@ -954,7 +954,7 @@
   "status": "CLOSED"
  },
  "e516f303-e82d-4fd3-8fbf-8e6ab624cf89": {
-  "multi_return": "11:10",
+  "multi_return": "12:05",
   "multi_state": "AVAILABLE",
   "name": "Rock \u2019n\u2019 Roller Coaster Starring The Muppets",
   "paid_price": "",
@@ -1018,7 +1018,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "f163ddcd-43e1-488d-8276-2381c1db0a39": {
   "multi_return": "09:10",
@@ -1028,7 +1028,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 5,
+  "standby": 10,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -1045,7 +1045,7 @@
   "status": "DOWN"
  },
  "fb076275-0570-4d62-b2a9-4d6515130fa3": {
-  "multi_return": "09:50",
+  "multi_return": "10:10",
   "multi_state": "AVAILABLE",
   "name": "The Seas with Nemo & Friends",
   "paid_price": "",
