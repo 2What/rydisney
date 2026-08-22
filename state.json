@@ -41,7 +41,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -86,7 +86,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Disney's Hollywood Studios",
-  "standby": 20,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -143,7 +143,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 80,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -179,7 +179,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 13,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -248,7 +248,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 20,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -295,7 +295,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 60,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -318,7 +318,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -431,7 +431,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": 60,
+  "standby": 25,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -489,7 +489,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 55,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -523,7 +523,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 85,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -557,7 +557,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -662,7 +662,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 20,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -812,9 +812,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 5,
   "standby_armed": true,
-  "status": "DOWN"
+  "status": "OPERATING"
  },
  "bc1ffa86-9b1a-4ce9-84a5-b479dfa3cb53": {
   "multi_return": "?",
@@ -846,7 +846,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 10,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -904,7 +904,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -961,7 +961,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 40,
+  "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
@@ -1028,7 +1028,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
