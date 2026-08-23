@@ -34,7 +34,7 @@
   "status": "OPERATING"
  },
  "0d94ad60-72f0-4551-83a6-ebaecdd89737": {
-  "multi_return": "08:50",
+  "multi_return": "10:20",
   "multi_state": "AVAILABLE",
   "name": "The Many Adventures of Winnie the Pooh",
   "paid_price": "",
@@ -109,7 +109,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": null,
+  "standby": 10,
   "status": "OPERATING"
  },
  "1e735ffb-4868-47f1-b2cd-2ac1156cd5f0": {
@@ -164,10 +164,10 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$15.00",
-  "paid_return": "14:20",
+  "paid_return": "14:25",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 25,
+  "standby": 45,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -330,7 +330,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -459,14 +459,14 @@
   "status": "CLOSED"
  },
  "64a6915f-a835-4226-ba5c-8389fc4cade3": {
-  "multi_return": "08:50",
+  "multi_return": "09:55",
   "multi_state": "AVAILABLE",
   "name": "Expedition Everest - Legend of the Forbidden Mountain",
   "paid_price": "",
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": null,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -609,7 +609,7 @@
   "status": "CLOSED"
  },
  "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0": {
-  "multi_return": "14:10",
+  "multi_return": "09:20",
   "multi_state": "AVAILABLE",
   "name": "Na'vi River Journey",
   "paid_price": "",
@@ -655,14 +655,14 @@
   "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
-  "multi_return": "10:30",
+  "multi_return": "08:35",
   "multi_state": "AVAILABLE",
   "name": "Peter Pan's Flight",
   "paid_price": "",
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 20,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -769,7 +769,7 @@
   "status": "CLOSED"
  },
  "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48": {
-  "multi_return": "08:15",
+  "multi_return": "08:20",
   "multi_state": "AVAILABLE",
   "name": "The Barnstormer",
   "paid_price": "",
@@ -800,7 +800,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 45,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -812,7 +812,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 20,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -1028,7 +1028,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": null,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
