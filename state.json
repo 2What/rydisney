@@ -34,7 +34,7 @@
   "status": "OPERATING"
  },
  "0d94ad60-72f0-4551-83a6-ebaecdd89737": {
-  "multi_return": "10:20",
+  "multi_return": "12:15",
   "multi_state": "AVAILABLE",
   "name": "The Many Adventures of Winnie the Pooh",
   "paid_price": "",
@@ -164,10 +164,10 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$15.00",
-  "paid_return": "14:25",
+  "paid_return": "08:45",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 45,
+  "standby": 55,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -388,7 +388,7 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "4f0df9e7-d4c1-45b5-93e2-4a7bc92547b0": {
   "multi_return": "?",
@@ -536,7 +536,7 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "6fd1e225-53a0-4a80-a577-4bbc9a471075": {
   "multi_return": "?",
@@ -550,7 +550,7 @@
   "status": "CLOSED"
  },
  "72c7343a-f7fb-4f66-95df-c91016de7338": {
-  "multi_return": "13:30",
+  "multi_return": "13:40",
   "multi_state": "AVAILABLE",
   "name": "Buzz Lightyear\u2019s Space Ranger Spin",
   "paid_price": "",
@@ -609,7 +609,7 @@
   "status": "CLOSED"
  },
  "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0": {
-  "multi_return": "09:20",
+  "multi_return": "14:20",
   "multi_state": "AVAILABLE",
   "name": "Na'vi River Journey",
   "paid_price": "",
@@ -655,7 +655,7 @@
   "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
-  "multi_return": "08:35",
+  "multi_return": "10:05",
   "multi_state": "AVAILABLE",
   "name": "Peter Pan's Flight",
   "paid_price": "",
@@ -678,7 +678,7 @@
   "status": "CLOSED"
  },
  "890fa430-89c0-4a3f-96c9-11597888005e": {
-  "multi_return": "08:15",
+  "multi_return": "08:20",
   "multi_state": "AVAILABLE",
   "name": "Dumbo the Flying Elephant",
   "paid_price": "",
@@ -755,7 +755,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "9211adc9-b296-4667-8e97-b40cf76108e4": {
   "multi_return": "?",
@@ -769,7 +769,7 @@
   "status": "CLOSED"
  },
  "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48": {
-  "multi_return": "08:20",
+  "multi_return": "08:05",
   "multi_state": "AVAILABLE",
   "name": "The Barnstormer",
   "paid_price": "",
@@ -836,7 +836,7 @@
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "d56506e2-6ad3-443a-8065-fea37987248d": {
   "multi_return": "?",
@@ -897,8 +897,8 @@
   "status": "CLOSED"
  },
  "de3309ca-97d5-4211-bffe-739fed47e92f": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "13:20",
+  "multi_state": "AVAILABLE",
   "name": "Big Thunder Mountain Railroad",
   "paid_price": "",
   "paid_return": "?",
@@ -906,7 +906,7 @@
   "park": "Magic Kingdom Park",
   "standby": null,
   "standby_armed": true,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "de737ffc-306b-4f32-8bbb-34e5d370ec8f": {
   "multi_return": "?",
@@ -1018,7 +1018,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "CLOSED"
+  "status": "OPERATING"
  },
  "f163ddcd-43e1-488d-8276-2381c1db0a39": {
   "multi_return": "09:00",
@@ -1064,7 +1064,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": null,
-  "status": "DOWN"
+  "standby": 5,
+  "status": "OPERATING"
  }
 }
