@@ -22,8 +22,8 @@
   "status": "CLOSED"
  },
  "0aae716c-af13-4439-b638-d75fb1649df3": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "09:40",
+  "multi_state": "AVAILABLE",
   "name": "Mad Tea Party",
   "paid_price": "",
   "paid_return": "?",
@@ -34,8 +34,8 @@
   "status": "CLOSED"
  },
  "0d94ad60-72f0-4551-83a6-ebaecdd89737": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "15:50",
+  "multi_state": "AVAILABLE",
   "name": "The Many Adventures of Winnie the Pooh",
   "paid_price": "",
   "paid_return": "?",
@@ -172,8 +172,8 @@
   "status": "CLOSED"
  },
  "2551a77d-023f-4ab1-9a19-8afec0190f39": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "15:10",
+  "multi_state": "AVAILABLE",
   "name": "Haunted Mansion",
   "paid_price": "",
   "paid_return": "?",
@@ -253,8 +253,8 @@
   "status": "CLOSED"
  },
  "352feb94-e52e-45eb-9c92-e4b44c6b1a9d": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "12:50",
+  "multi_state": "AVAILABLE",
   "name": "Pirates of the Caribbean",
   "paid_price": "",
   "paid_return": "?",
@@ -323,8 +323,8 @@
   "status": "CLOSED"
  },
  "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "10:10",
+  "multi_state": "AVAILABLE",
   "name": "Under the Sea - Journey of The Little Mermaid",
   "paid_price": "",
   "paid_return": "?",
@@ -428,8 +428,8 @@
   "multi_state": null,
   "name": "TRON Lightcycle / Run",
   "paid_price": "$19.00",
-  "paid_return": "?",
-  "paid_state": "FINISHED",
+  "paid_return": "15:45",
+  "paid_state": "AVAILABLE",
   "park": "Magic Kingdom Park",
   "standby": null,
   "standby_armed": true,
@@ -550,8 +550,8 @@
   "status": "CLOSED"
  },
  "72c7343a-f7fb-4f66-95df-c91016de7338": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "15:25",
+  "multi_state": "AVAILABLE",
   "name": "Buzz Lightyear\u2019s Space Ranger Spin",
   "paid_price": "",
   "paid_return": "?",
@@ -562,8 +562,8 @@
   "status": "CLOSED"
  },
  "73cb9445-0695-47a3-87ce-d08ae36b5f3c": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "15:10",
+  "multi_state": "AVAILABLE",
   "name": "Tiana's Bayou Adventure",
   "paid_price": "",
   "paid_return": "?",
@@ -597,8 +597,8 @@
   "status": "CLOSED"
  },
  "796b0a25-c51e-456e-9bb8-50a324e301b3": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "10:50",
+  "multi_state": "AVAILABLE",
   "name": "Jungle Cruise",
   "paid_price": "",
   "paid_return": "?",
@@ -655,8 +655,8 @@
   "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "14:00",
+  "multi_state": "AVAILABLE",
   "name": "Peter Pan's Flight",
   "paid_price": "",
   "paid_return": "?",
@@ -678,8 +678,8 @@
   "status": "CLOSED"
  },
  "890fa430-89c0-4a3f-96c9-11597888005e": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "09:50",
+  "multi_state": "AVAILABLE",
   "name": "Dumbo the Flying Elephant",
   "paid_price": "",
   "paid_return": "?",
@@ -769,8 +769,8 @@
   "status": "CLOSED"
  },
  "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "09:55",
+  "multi_state": "AVAILABLE",
   "name": "The Barnstormer",
   "paid_price": "",
   "paid_return": "?",
@@ -781,8 +781,8 @@
   "status": "CLOSED"
  },
  "96455de6-f4f1-403c-9391-bf8396979149": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "10:10",
+  "multi_state": "AVAILABLE",
   "name": "The Magic Carpets of Aladdin",
   "paid_price": "",
   "paid_return": "?",
@@ -796,17 +796,17 @@
   "multi_return": "?",
   "multi_state": null,
   "name": "Seven Dwarfs Mine Train",
-  "paid_price": "$11.00",
-  "paid_return": "?",
-  "paid_state": "FINISHED",
+  "paid_price": "$13.00",
+  "paid_return": "19:00",
+  "paid_state": "AVAILABLE",
   "park": "Magic Kingdom Park",
   "standby": null,
   "standby_armed": true,
   "status": "CLOSED"
  },
  "b2260923-9315-40fd-9c6b-44dd811dbe64": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "09:50",
+  "multi_state": "AVAILABLE",
   "name": "Space Mountain",
   "paid_price": "",
   "paid_return": "?",
@@ -897,8 +897,8 @@
   "status": "CLOSED"
  },
  "de3309ca-97d5-4211-bffe-739fed47e92f": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "11:00",
+  "multi_state": "AVAILABLE",
   "name": "Big Thunder Mountain Railroad",
   "paid_price": "",
   "paid_return": "?",
@@ -1021,8 +1021,8 @@
   "status": "CLOSED"
  },
  "f163ddcd-43e1-488d-8276-2381c1db0a39": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "10:45",
+  "multi_state": "AVAILABLE",
   "name": "Tomorrowland Speedway",
   "paid_price": "",
   "paid_return": "?",
@@ -1033,8 +1033,8 @@
   "status": "CLOSED"
  },
  "f5aad2d4-a419-4384-bd9a-42f86385c750": {
-  "multi_return": "?",
-  "multi_state": "FINISHED",
+  "multi_return": "09:00",
+  "multi_state": "AVAILABLE",
   "name": "\"it's a small world\"",
   "paid_price": "",
   "paid_return": "?",
