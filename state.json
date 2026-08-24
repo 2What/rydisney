@@ -102,7 +102,7 @@
   "status": "CLOSED"
  },
  "1b15c77b-0311-4171-8e59-7f38e6d60754": {
-  "multi_return": "08:40",
+  "multi_return": "08:50",
   "multi_state": "AVAILABLE",
   "name": "Zootopia: Better Zoogether!",
   "paid_price": "",
@@ -164,10 +164,10 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$15.00",
-  "paid_return": "09:15",
+  "paid_return": "08:00",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 40,
+  "standby": 45,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -459,7 +459,7 @@
   "status": "CLOSED"
  },
  "64a6915f-a835-4226-ba5c-8389fc4cade3": {
-  "multi_return": "09:50",
+  "multi_return": "08:55",
   "multi_state": "AVAILABLE",
   "name": "Expedition Everest - Legend of the Forbidden Mountain",
   "paid_price": "",
@@ -609,7 +609,7 @@
   "status": "CLOSED"
  },
  "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0": {
-  "multi_return": "14:25",
+  "multi_return": "14:30",
   "multi_state": "AVAILABLE",
   "name": "Na'vi River Journey",
   "paid_price": "",
