@@ -7,8 +7,8 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": null,
-  "status": "CLOSED"
+  "standby": 20,
+  "status": "OPERATING"
  },
  "07dbeaea-85fa-45f2-872f-02f9e7510419": {
   "multi_return": "?",
@@ -41,7 +41,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 25,
+  "standby": 15,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -86,7 +86,7 @@
   "paid_return": "19:35",
   "paid_state": "AVAILABLE",
   "park": "Disney's Hollywood Studios",
-  "standby": 55,
+  "standby": 30,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -120,7 +120,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 40,
+  "standby": 35,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -143,7 +143,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 50,
+  "standby": 65,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -191,7 +191,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 0,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -241,14 +241,14 @@
   "status": "CLOSED"
  },
  "34c4916b-989b-4ff1-a7e3-a6a846a3484f": {
-  "multi_return": "18:55",
+  "multi_return": "19:15",
   "multi_state": "AVAILABLE",
   "name": "Millennium Falcon: Smugglers Run",
   "paid_price": "",
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 30,
+  "standby": 25,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -265,7 +265,7 @@
   "status": "OPERATING"
  },
  "35ed719b-f7f0-488f-8346-4fbf8055d373": {
-  "multi_return": "19:00",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Disney and Pixar Short Film Festival",
   "paid_price": "",
@@ -283,7 +283,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 70,
+  "standby": 60,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -295,7 +295,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 75,
+  "standby": 60,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -311,7 +311,7 @@
   "status": "OPERATING"
  },
  "3b290419-8ca2-44bc-a710-a6c83fca76ec": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Star Tours \u2013 The Adventures Continue",
   "paid_price": "",
@@ -357,7 +357,7 @@
   "status": "OPERATING"
  },
  "480fde8f-fe58-4bfb-b3ab-052a39d4db7c": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Spaceship Earth",
   "paid_price": "",
@@ -413,7 +413,7 @@
   "status": "CLOSED"
  },
  "57acb522-a6fc-4aa4-a80e-21f21f317250": {
-  "multi_return": "19:00",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Turtle Talk With Crush",
   "paid_price": "",
@@ -431,12 +431,12 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": 35,
+  "standby": 40,
   "standby_armed": true,
   "status": "OPERATING"
  },
  "5b6475ad-4e9a-4793-b841-501aa382c9c0": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Mission: SPACE",
   "paid_price": "",
@@ -523,7 +523,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 65,
+  "standby": 105,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -557,7 +557,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 20,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -569,12 +569,12 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
  "75449e85-c410-4cef-a368-9d2ea5d52b58": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Journey Into Imagination With Figment",
   "paid_price": "",
@@ -604,7 +604,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 25,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -643,7 +643,7 @@
   "status": "REFURBISHMENT"
  },
  "81b15dfd-cf6a-466f-be59-3dd65d2a2807": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Soarin' Across America",
   "paid_price": "",
@@ -685,7 +685,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 15,
+  "standby": 10,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -708,12 +708,12 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 60,
+  "standby": 50,
   "standby_armed": true,
   "status": "OPERATING"
  },
  "8f353879-d6ac-4211-9352-4029efb47c18": {
-  "multi_return": "18:55",
+  "multi_return": "19:20",
   "multi_state": "AVAILABLE",
   "name": "Living with the Land",
   "paid_price": "",
@@ -776,7 +776,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -800,7 +800,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "Magic Kingdom Park",
-  "standby": 25,
+  "standby": 30,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -839,7 +839,7 @@
   "status": "CLOSED"
  },
  "d56506e2-6ad3-443a-8065-fea37987248d": {
-  "multi_return": "19:40",
+  "multi_return": "20:00",
   "multi_state": "AVAILABLE",
   "name": "Alien Swirling Saucers",
   "paid_price": "",
@@ -927,7 +927,7 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "EPCOT",
-  "standby": 130,
+  "standby": 135,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -1028,7 +1028,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Magic Kingdom Park",
-  "standby": 10,
+  "standby": 5,
   "standby_armed": true,
   "status": "OPERATING"
  },
@@ -1045,14 +1045,14 @@
   "status": "OPERATING"
  },
  "fb076275-0570-4d62-b2a9-4d6515130fa3": {
-  "multi_return": "18:55",
+  "multi_return": "19:15",
   "multi_state": "AVAILABLE",
   "name": "The Seas with Nemo & Friends",
   "paid_price": "",
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": 10,
   "standby_armed": true,
   "status": "OPERATING"
  },
