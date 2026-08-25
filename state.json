@@ -109,7 +109,7 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Animal Kingdom Theme Park",
-  "standby": 0,
+  "standby": 15,
   "status": "OPERATING"
  },
  "1e735ffb-4868-47f1-b2cd-2ac1156cd5f0": {
@@ -164,7 +164,7 @@
   "multi_state": null,
   "name": "Avatar Flight of Passage",
   "paid_price": "$15.00",
-  "paid_return": "08:45",
+  "paid_return": "08:00",
   "paid_state": "AVAILABLE",
   "park": "Disney's Animal Kingdom Theme Park",
   "standby": 30,
@@ -459,7 +459,7 @@
   "status": "CLOSED"
  },
  "64a6915f-a835-4226-ba5c-8389fc4cade3": {
-  "multi_return": "08:30",
+  "multi_return": "08:25",
   "multi_state": "AVAILABLE",
   "name": "Expedition Everest - Legend of the Forbidden Mountain",
   "paid_price": "",
@@ -609,7 +609,7 @@
   "status": "CLOSED"
  },
  "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0": {
-  "multi_return": "13:10",
+  "multi_return": "12:45",
   "multi_state": "AVAILABLE",
   "name": "Na'vi River Journey",
   "paid_price": "",
