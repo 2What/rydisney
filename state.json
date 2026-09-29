@@ -76,7 +76,7 @@
   "paid_state": null,
   "park": "EPCOT",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "1a2e70d9-50d5-4140-b69e-799e950f7d18": {
   "multi_return": "?",
@@ -120,9 +120,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "1f542745-cda1-4786-a536-5fff373e5964": {
   "multi_return": "?",
@@ -155,9 +155,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "24cf863c-b6ba-4826-a056-0b698989cbf7": {
   "multi_return": "?",
@@ -283,9 +283,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 25,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "399aa0a1-98e2-4d2b-b297-2b451e9665e1": {
   "multi_return": "?",
@@ -364,9 +364,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "482169b9-2889-4747-8aef-f9d13a37d940": {
   "multi_return": "?",
@@ -454,9 +454,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 15,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "61fb49f8-e62f-4e1c-ae0e-8ab9929037bc": {
   "multi_return": "?",
@@ -605,7 +605,7 @@
   "paid_state": null,
   "park": "EPCOT",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "796b0a25-c51e-456e-9bb8-50a324e301b3": {
   "multi_return": "?",
@@ -661,9 +661,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 20,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "86a41273-5f15-4b54-93b6-829f140e5161": {
   "multi_return": "?",
@@ -719,9 +719,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "8f353879-d6ac-4211-9352-4029efb47c18": {
   "multi_return": "?",
@@ -927,7 +927,7 @@
   "paid_state": null,
   "park": "EPCOT",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "de3309ca-97d5-4211-bffe-739fed47e92f": {
   "multi_return": "?",
@@ -960,9 +960,9 @@
   "paid_return": "?",
   "paid_state": "FINISHED",
   "park": "EPCOT",
-  "standby": 45,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "e39b831b-7731-49bb-815b-289b4f49a9fd": {
   "multi_return": "?",
@@ -1085,9 +1085,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "EPCOT",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "ffcfeaa2-1416-4920-a1ed-543c1a1695c4": {
   "multi_return": "?",
