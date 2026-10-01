@@ -143,9 +143,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "22f48b73-01df-460e-8969-9eb2b4ae836c": {
   "multi_return": "?",
@@ -248,9 +248,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 10,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "352feb94-e52e-45eb-9c92-e4b44c6b1a9d": {
   "multi_return": "?",
@@ -295,9 +295,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 15,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "3ace01d1-15fc-4fbb-99e4-81a696cb2d05": {
   "multi_return": "?",
@@ -318,9 +318,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef": {
   "multi_return": "?",
@@ -500,9 +500,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "6ef1b126-5b0b-46a1-8608-4fcf98ab92c8": {
   "multi_return": "?",
@@ -536,7 +536,7 @@
   "park": "Disney's Hollywood Studios",
   "standby": null,
   "standby_armed": true,
-  "status": "DOWN"
+  "status": "CLOSED"
  },
  "6fbe6d02-4057-43bb-80a3-047b1e8a50ca": {
   "multi_return": "?",
@@ -766,7 +766,7 @@
   "paid_state": null,
   "park": "Magic Kingdom Park",
   "standby": null,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "91237556-7557-4b18-88a8-581254de96c6": {
   "multi_return": "?",
@@ -868,9 +868,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 5,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "d58d9262-ec95-4161-80a0-07ca43b2f5f3": {
   "multi_return": "?",
@@ -994,9 +994,9 @@
   "paid_return": "?",
   "paid_state": null,
   "park": "Disney's Hollywood Studios",
-  "standby": 10,
+  "standby": null,
   "standby_armed": true,
-  "status": "OPERATING"
+  "status": "CLOSED"
  },
  "e76c93df-31af-49a5-8e2f-752c76c937c9": {
   "multi_return": "?",
